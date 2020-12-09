@@ -4,7 +4,7 @@
 */
 
 /*creating variables*/
-let input  = '' //input random sentence(s)
+let input  = 'sleepy baby is in love with haley belly the jinji' //input random sentence(s)
 let vowels = ['u','o','a','i','e'] //whales vowels
 let resultArray = [] //result as translated into whale talk
 
