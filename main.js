@@ -1,5 +1,7 @@
 # Whale-Talk
-/**project from Codecademy — JavaScript Syntax: Loops*/
+/**
+* project from Codecademy — JavaScript Syntax: Loops
+*/
 
 /*creating variables*/
 let input  = '' //input random sentence(s)
